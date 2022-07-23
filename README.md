@@ -1,6 +1,5 @@
 # Credit Card Processing System Using React 
 
-___
 
 ## Description
 
@@ -16,7 +15,6 @@ ___
 View Code [here](https://github.com/JaimugilC/react-ccps/tree/main/client)
 
 The front end for the system is made using *React Library* and *Bootstrap*.
-___
 
 ## Back-End
 
