@@ -57,12 +57,13 @@ app.post("/api/signup", (req, res) => {
   const email = req.body.email;
   const type = "user";
   const Accstatus = "processing";
+  const number = req.body.number;
 
   const sqlInsert =
-    "INSERT INTO user (username, email, password, type, Accstatus) VALUES(?,?,?,?,?)";
+    "INSERT INTO user (username, email, password, type, Accstatus, number) VALUES(?,?,?,?,?,?)";
   db.query(
     sqlInsert,
-    [username, email, password, type, Accstatus],
+    [username, email, password, type, Accstatus, number],
     (err, result) => {
       console.log(err);
       console.log(result);
