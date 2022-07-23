@@ -14,7 +14,7 @@ ___
 
 View Code [here](https://github.com/JaimugilC/react-ccps/tree/main/client)
 
-The front end for the system is made using *React Library* and *Bootstrap*.
+The front end for the system is made using *React* and *Bootstrap*.
 
 ## Back-End
 
