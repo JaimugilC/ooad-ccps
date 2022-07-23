@@ -12,12 +12,12 @@ ___
 
 ## Front-End
 
-View Code [here](https://github.com/JaimugilC/react-ccps/tree/main/client)
+View Code [here](https://github.com/JaimugilC/react-ccps/tree/main/client).
 
 The front end for the system is made using *React* and *Bootstrap*.
 
 ## Back-End
 
-View Code [here](https://github.com/JaimugilC/react-ccps/tree/main/server)
+View Code [here](https://github.com/JaimugilC/react-ccps/tree/main/server).
 
 The backend for the system is made using *Express.js* and for the database *Mysql* is used.
